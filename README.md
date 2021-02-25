@@ -1,7 +1,7 @@
 # GrupoSerDisciplinas
 Repositórios de códigos para as disciplinas do curso de data science - EAD do grupo ser educacional.
 
-## Requirements
+## Requisitos
 * Anaconda: [[como instalar]](https://www.youtube.com/watch?v=3oYEesMpAQQ)
 * Rstudio: [[como instalar]](https://www.youtube.com/watch?v=l1bWvZMNMCM)
 * Use pip para instalar as dependências.
