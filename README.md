@@ -27,6 +27,7 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
 
 ## Machine Learning (Jupyter Notebook)
 + Unidade II
+   + [Redução de dimensionalidade, PCA](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redu%C3%A7%C3%A3o%20de%20dimensionalidade%20-%20PCA.ipynb)
    + [Redes neurais, perceptron e MLP](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redes%20Supervisionadas%20-%20Perceptron%2C%20MLP.ipynb)
 + Unidade IV
    + [Classificadores, KNN, Bayesiano e Árvore de decisão](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Algoritmo%20Apriori.ipynb)
