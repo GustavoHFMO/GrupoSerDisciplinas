@@ -34,7 +34,7 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
    + [Algoritmo Genético](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Algoritmo%20Genetico.ipynb)
 
 ## Análise Estatística de Dados (R)
-+ Unidade III
++ Unidade II
    + [Estatísticas Descritivas e Gráficos Quantitativos](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/An%C3%A1lise%20Estat%C3%ADstica%20de%20Dados/Unidade%20III%20-%20Estat%C3%ADsticas%20descritivas%20e%20graficos.R)  
 + Unidade IV
    + [Testes de Hipóteses, Teste T e ANOVA](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/An%C3%A1lise%20Estat%C3%ADstica%20de%20Dados/Unidade%20IV%20-%20Testes%20de%20Hipotese%2C%20T%20e%20ANOVA.R)  
