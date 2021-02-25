@@ -6,6 +6,8 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
 * Rstudio: [[como instalar]](https://www.youtube.com/watch?v=l1bWvZMNMCM)
 * Use pip para instalar as dependências.
 
+[TOCM]
+
 [TOC]
 
 ## Fundamentos em Inteligência Artificial
