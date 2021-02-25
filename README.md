@@ -2,8 +2,8 @@
 Repositórios de códigos para as disciplinas do curso de data science - EAD do grupo ser educacional.
 
 ## Requirements
-* Anaconda [como instalar Anaconda](https://www.youtube.com/watch?v=3oYEesMpAQQ)
-* Rstudio [como instalar Rstudio](https://www.youtube.com/watch?v=l1bWvZMNMCM)
+* Anaconda: [[como instalar] Anaconda](https://www.youtube.com/watch?v=3oYEesMpAQQ)
+* Rstudio: [[como instalar]](https://www.youtube.com/watch?v=l1bWvZMNMCM)
 * Use pip para instalar as dependências.
 
 ## Fundamentos em Inteligência Artificial
