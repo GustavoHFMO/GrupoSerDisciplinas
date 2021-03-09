@@ -22,7 +22,7 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
   + [Algoritmo Apriori](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Algoritmo%20Apriori.ipynb)
 + Unidade III
   + [Regressão Linear Simples e Múltipla](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Regress%C3%A3o%20-%20Simples%20e%20Multipla.ipynb)
-  + [Classificadores, KNN, Bayesiano e Árvore de decisão](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Algoritmo%20Apriori.ipynb)
+  + [Classificadores, KNN, Bayesiano e Árvore de decisão](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Classificadores%20-%20KNN%2C%20Bayesiano%2C%20Arvore.ipynb)
   + [Agrupamento, Kmeans](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Agrupamento%20-%20Kmeans.ipynb)
 
 ## Machine Learning (Jupyter Notebook)
