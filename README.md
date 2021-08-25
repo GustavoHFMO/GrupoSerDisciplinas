@@ -25,14 +25,25 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
   + [Classificadores, KNN, Bayesiano e Árvore de decisão](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Classificadores%20-%20KNN%2C%20Bayesiano%2C%20Arvore.ipynb)
   + [Agrupamento, Kmeans](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Agrupamento%20-%20Kmeans.ipynb)
 
-## Machine Learning (Jupyter Notebook)
+## Machine Learning (Jupyter Notebook e Colab)
 + Unidade II
-   + [Redução de dimensionalidade, PCA](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redu%C3%A7%C3%A3o%20de%20dimensionalidade%20-%20PCA.ipynb)
-   + [Redes neurais, perceptron e MLP](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redes%20Supervisionadas%20-%20Perceptron%2C%20MLP.ipynb)
+  + [Redução de dimensionalidade, PCA](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redu%C3%A7%C3%A3o%20de%20dimensionalidade%20-%20PCA.ipynb)
+  + [Redes neurais, perceptron e MLP](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redes%20Supervisionadas%20-%20Perceptron%2C%20MLP.ipynb)
++ Unidade III
+  + [Rede Convolucional (CNN)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/CNN.ipynb)
+  + [Autoencoder (AE)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Autoencoder.ipynb)
+  + [Long-Short Term Memory (LSTM)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/LSTM.ipynb)
 + Unidade IV
    + [Classificadores, KNN, Bayesiano e Árvore de decisão](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Minera%C3%A7%C3%A3o%20de%20Dados/Algoritmo%20Apriori.ipynb)
    + [Algoritmo Genético](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Algoritmo%20Genetico.ipynb)
 
+## Deep Learning (Colab)
++ Unidade III
+  + [Long-Short Term Memory (LSTM)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/LSTM.ipynb)
+  + [Autoencoder (AE)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Autoencoder.ipynb)
++ Unidade IV
+  + [Rede Convolucional (CNN)](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/CNN.ipynb)
+  
 ## Análise Estatística de Dados (R)
 + Unidade II
    + [Estatísticas Descritivas e Gráficos Quantitativos](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/An%C3%A1lise%20Estat%C3%ADstica%20de%20Dados/Unidade%20III%20-%20Estat%C3%ADsticas%20descritivas%20e%20graficos.R)  
