@@ -28,7 +28,7 @@ Repositórios de códigos para as disciplinas do curso de data science - EAD do 
 
 ## Machine Learning (Jupyter Notebook e Colab)
 + Unidade II
- + [Redes neurais supervisionadas: Perceptron e MLP](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redes%20Supervisionadas%20-%20Perceptron%2C%20MLP.ipynb)
+  + [Redes neurais supervisionadas: Perceptron e MLP](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redes%20Supervisionadas%20-%20Perceptron%2C%20MLP.ipynb)
   + [Redução de dimensionalidade: PCA](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/Redu%C3%A7%C3%A3o%20de%20dimensionalidade%20-%20PCA.ipynb)
   + [Redes neurais não-supervisionadas: SOM](https://github.com/GustavoHFMO/GrupoSerDisciplinas/blob/master/Machine%20Learning/SOM_Network.ipynb)
 + Unidade III
